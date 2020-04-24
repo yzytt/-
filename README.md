@@ -8,8 +8,10 @@
 ## 实验二、
 1. Project 2010中的项目进度管理：将图中的项目在Project 2010中实现
 ![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/2-1.png)
-2. Project 2010中资源的创建，分配资源，实现如图所示优先网络
+2. Project 2010中资源的创建，分配资源，实现如图所示优先网络，需要截图输出资源活动表，任务活动表，任务分配状况表。
 ![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/2-2.png)
+上述项目的资源(人员)需求如下表所示：
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/2-3.png)
 ## 实验三、
 1. Project 2010中进度跟踪(根据实验二-1做)
 2. Project 2010中挣值分析,根据下图1计划进度与资源分配（从某一日开始每天刷一个房间，每天需要一名工人，工人的费用为每小时30元。），图2实际进度（到第5天时，房间1和2已经全部完成，其它房间还没有开始），
