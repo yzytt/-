@@ -3,10 +3,16 @@
 ## 实验一、
 1. COCOMO II 软件的使用<br>
 2. 验证软件工作量估计_例子.ppt中的例子，结果如下所示：
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/1-1.png)
 3. 代码规范和评审模板的建立
 ## 实验二、
-1. Project 2010中的项目进度管理：将图中的项目在Project 2010中实现，
-2. Project 2010中资源的创建，分配资源
+1. Project 2010中的项目进度管理：将图中的项目在Project 2010中实现
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/2-1.png)
+2. Project 2010中资源的创建，分配资源，实现如图所示优先网络
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/2-2.png)
 ## 实验三、
-1. Project 2010中进度跟踪
-2. Project 2010中挣值分析
+1. Project 2010中进度跟踪(根据实验二-1做)
+2. Project 2010中挣值分析,根据下图1计划进度与资源分配（从某一日开始每天刷一个房间，每天需要一名工人，工人的费用为每小时30元。），图2实际进度（到第5天时，房间1和2已经全部完成，其它房间还没有开始），
+对第5天的进度进行挣值分析以及画出跟踪甘特图。
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/3-1.png)
+![](https://github.com/yzytt/SoftwareProcessAndManagement/blob/master/image/3-2.png)
